@@ -1,0 +1,105 @@
+/* CSS files add styling rules to your content */
+
+body 
+{
+  background-color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: "Abril Fatface", cursive;
+}
+
+h1 
+{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+  font-family: "Abril Fatface", cursive;
+  font-size: 60px;
+  color: rgb(173, 7, 57);
+}
+
+ul 
+{
+  list-style-type: none;
+  margin: 0px;
+  padding: 7px;
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+}
+
+li 
+{
+  float: left;
+}
+
+li a 
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 35px;
+  text-decoration: none;
+}
+
+li a:hover
+{
+  background-color: #111;
+}
+
+.card {
+  display: inline-block;
+}
+
+
+
+.jumbotron 
+{
+  font-size: 15px;
+  text-align: center;
+  font-family: ;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: rgb(85, 128, 100);
+  background-color: rgb(255, 251, 232);
+}
+
+#carouselExampleControls 
+{
+  margin: 35px 70px 50px 90px;
+}
+
+.card-text 
+{
+font-family: 'Quicksand', sans-serif;
+  color: rgb(173, 3, 12);
+  font-size: 20px;
+}
+
+.jumbotron
+{
+  font-family: "Montserrat", sans-serif;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+.display-4 
+{
+  color: white;
+}
+
+.input-group
+{
+   margin-top: 100px;
+  margin-bottom: 100px;
+  display: center;
+
+}
+
+.btn 
+{
+ color: black; 
+background-color: white;
+}
+  
+  
